@@ -38,7 +38,7 @@ const user = test.sort(randomsort)
 /**
  * 卡片公司名称标识
  */
-const COMPANY = "Github";
+const COMPANY = "WDSEC-研究部门";
 /**
  * 奖品设置
  * type: 唯一标识，0是默认特别奖的占位符，其它奖品不可使用
