@@ -83,7 +83,7 @@ const prizes = [
   },
   {
     type: 3,
-    count: 5,
+    count: 3,
     text: "三等奖  ",
     title: "罗技GPW1代无线鼠标",
     img: "./img/ipad.jpg",
@@ -94,7 +94,7 @@ const prizes = [
   },
   {
     type: 4,
-    count: 10,
+    count: 6,
     text: "参与奖",
     title: "小熊加湿器",
     img: "./img/edifier.jpg",
