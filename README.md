@@ -20,6 +20,15 @@
 ### 安装依赖
 ```
 yarn intall 安装依赖...
+
+00h00m00s 0/0: : ERROR: [Errno 2] No such file or directory: 'install'
+
+apt remove yarn
+curl -sS https://dl.yarnpkg.com/debian/pubkey.gpg | apt-key add -
+echo "deb https://dl.yarnpkg.com/debian/ stable main" | tee /etc/apt/sources.list.d/yarn.list
+apt-get update
+apt-get install yarn
+
 ```
 ### 启动项目
 ```
